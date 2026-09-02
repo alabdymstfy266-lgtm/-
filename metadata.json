@@ -1,0 +1,6 @@
+{
+  "name": "MMMXX",
+  "description": "Gaming performance monitor, display refresh rate analyzer, FOV aspect ratio calculator, and network ping diagnostic suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
